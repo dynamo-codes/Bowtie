@@ -6,12 +6,9 @@ Usage
 Installation
 ------------
 
-To use Lumache, first install it using pip:
+To install Bowtie, go to `dl link`_ and download the .exe (the root.bw file is optional).
 
-.. code-block:: console
-
-   (.venv) $ pip install lumache
-
+.. _dl link: https://drive.google.com/drive/folders/17CpWlQrSX5nj-Uh6eYzmKYIkXDD4liC9?usp=sharing
 Creating recipes
 ----------------
 
